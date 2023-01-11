@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0f1749;
+}
+
+.fa-discord:before {
+  content: "\f392";
+}
+
+.v-align {
+  vertical-align: middle
+}
